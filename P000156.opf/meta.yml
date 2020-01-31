@@ -1,0 +1,38 @@
+ebook_metadata:
+  title: ༄༅། །འཁྲུལ་ཞིག་ཁྲིད་དཔོན་རིན་པོ་ཆེ་ངག་དབང་པདྨ་ཆོས་ཀྱི་རྒྱལ་པོའི་མཛད་རྣམ་དང་ཞལ་གསུང་ཕྱོགས་སྒྲིག་བཞུགས་སོ།
+    །
+  authors:
+  - ཕྲིན་ལས་རྡོ་རྗེས་རྩོམ་སྒྲིག་ཞུས།
+  sku: KS-TS-03
+  layers:
+  - book_title
+  - author
+  - chapter_title
+  - yigchung
+web_metadata:
+  title:
+    en: The Biography and Selected Writings of Trulshik Tribon Rinpoche, Ngawang Pema
+      Chokyi Gyalpo
+    bo: འཁྲུལ་ཞིག་ཁྲིད་དཔོན་རིན་པོ་ཆེ་ངག་དབང་པདྨ་ཆོས་ཀྱི་རྒྱལ་པོའི་མཛད་རྣམ་དང་ཞལ་གསུང་ཕྱོགས་སྒྲིག་བཞུགས་སོ།།
+  collection:
+    en: Tulku Sengdrak Series–  Book 3
+    bo: སྤྲུལ་སྐུ་སེང་གྲགས་བསྟར་རིམ།–  དེབ། ༣
+  author:
+    en: Thinley Dorje
+    bo: ཕྲིན་ལས་རྡོ་རྗེ།
+  pusblisher:
+    en: Gautam Buddha Vihara
+    bo: དོན་བརྒྱུད་དཔལ་ལྡན་འབྲུག་པ།
+  sku: KS-TS-03
+  category:
+    en: Biography
+    bo: རྣམ་ཐར།
+  org:
+    bo: Timeless Treasuries
+    en: མཐའ་ཡས་དཔེ་མཛོད།
+  website: http://dharmacloud.tsadra.org
+  aquisition_data: '2019-07-18'
+  filename: KS-TS-03.epub
+  description:
+    en: ''
+    bo: ''
