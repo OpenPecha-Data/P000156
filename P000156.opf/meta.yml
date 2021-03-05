@@ -1,14 +1,16 @@
-ebook_metadata:
+id: P000156
+initial_creation_type: ebook
+source_metadata:
   title: ༄༅། །འཁྲུལ་ཞིག་ཁྲིད་དཔོན་རིན་པོ་ཆེ་ངག་དབང་པདྨ་ཆོས་ཀྱི་རྒྱལ་པོའི་མཛད་རྣམ་དང་ཞལ་གསུང་ཕྱོགས་སྒྲིག་བཞུགས་སོ།
     །
   authors:
   - ཕྲིན་ལས་རྡོ་རྗེས་རྩོམ་སྒྲིག་ཞུས།
-  sku: KS-TS-03
   layers:
   - book_title
   - author
   - chapter_title
   - yigchung
+  id: KS-TS-03
 web_metadata:
   title:
     en: The Biography and Selected Writings of Trulshik Tribon Rinpoche, Ngawang Pema
